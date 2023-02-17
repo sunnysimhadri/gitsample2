@@ -7,7 +7,7 @@ sudo apt-get -y update --fix-missing
 sudo apt-get install -y openjdk-13-jdk
 # Install tomcat
 sudo apt-get install -y tomcat9
-#install mysql-server 5.6
+#install mysql-server 5.7
 sudo apt-get -y install mysql-server-5.7 
 sudo apt install tree
 # Update and then close
